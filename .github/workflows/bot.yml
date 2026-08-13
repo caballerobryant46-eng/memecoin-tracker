@@ -1,4 +1,4 @@
-name: MemeCoin Tracker
+name: MemeCoin Tracker Test
 
 on:
   workflow_dispatch:
